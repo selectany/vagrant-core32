@@ -12,7 +12,7 @@ Vagrant.configure("2") do |config|
   config.ssh.default.username = "tc"
 
   config.vm.usable_port_range = (2200..2250)
-  config.vm.box_url = "http://source-bg.com/vagrant-boxes/core32-4.2.18.box"
+  config.vm.box_url = nil
   config.vm.boot_timeout = 300
   config.vm.graceful_halt_timeout = 60
   config.vm.host_name = nil
