@@ -1,5 +1,4 @@
 # vagrant-core32 
-==============
 
 Vagrant setup based on Core project from TinyLinux v5.0.1.
 Built against Virtual Box Guest Addins v4.2.18.
