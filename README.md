@@ -18,7 +18,7 @@ Currently vagrant box is about 23Mb - really tiny and fast!
 After all you should be able to visit [http://localhost:8888](http://localhost:8888)
 
 ## TODO:
-- mysql is still not ported for TinyCore 5.0.1, so for now you have use sqlite3
-- apache2-mod-php is installed, but php-cli is still not ported, also.
+- mysql is still not ported for TinyCore 5.0.1, so for now you can use only sqlite3
+- apache2-mod-php is installed, but php-cli is still not ported, also
 
 Enjoy!
