@@ -1,4 +1,4 @@
 vagrant-core32
 ==============
 
-(still no working - looking for a place to store vagrant box)
+(still not working - looking for a place to store vagrant box)
