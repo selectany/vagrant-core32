@@ -22,3 +22,8 @@ After all you should be able to visit [http://localhost:8888](http://localhost:8
 - apache2-mod-php is installed, but php-cli is still not ported, also
 
 Enjoy!
+
+
+
+## Optional
+You can download exported VB image ([Download](https://dl.dropboxusercontent.com/u/110582551/vagrant-core32.ova))
