@@ -3,7 +3,7 @@
 Vagrant setup based on Core project from TinyLinux v5.0.1.
 Built against Virtual Box Guest Addins v4.2.18.
 
-Currently vagrant box is about 23Mb - really tiny and fast!
+Currently vagrant box is about 24Mb - really tiny and fast!
 
 ## Getting Started
 
